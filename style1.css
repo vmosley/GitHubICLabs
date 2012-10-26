@@ -42,7 +42,7 @@ height:600px;
 background: #e3e3e3;
 background: -moz-linear-gradient(top, white, peachpuff);
 /*background: -webkit-gradient(linear,0 0, 0 100%, from(red), color-stop(10%, pink);*/
-border-radius:10px;
+border-radius:15px 124px 10px 10px;
 width: 88%;
 margin: 0px auto;
 }
